@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github%20intro/lemon-mascot.png" alt="LEMON mascot" width="240">
+  <img src="github%20intro/lemon-mascot.png" alt="LEMON mascot" width="400">
 </p>
 
 <h1 align="center">
