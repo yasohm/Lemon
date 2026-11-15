@@ -1,4 +1,4 @@
-# LEMON: A Personal Desktop AI Assistant for Ubuntu\
+# LEMON: A Personal Desktop AI Assistant for Ubuntu
 <p align="center">
   <img src="lemon-mascot.png" alt="LEMON mascot" width="250">
 </p>
